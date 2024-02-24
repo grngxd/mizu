@@ -1,0 +1,15 @@
+declare main;
+// import mizu;
+import [
+    mizu
+];
+
+fn main() -> int {
+    variable-1 := []rune("This is a string")
+    variable-2 := 6
+    
+    const pi := 3.141592653
+    mizu.println("Print statement")
+    
+    return 0;
+}
